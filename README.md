@@ -47,4 +47,4 @@ Git • GitHub • Postman • Linux • AWS • Vercel • Render
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=kshitij189&icon=0&color=0)
+![Visitor Count](https://komarev.com/ghpvc/?username=kshitij189&label=Profile%20views&color=0e75b6&style=flat)
