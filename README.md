@@ -1,50 +1,94 @@
-# 💫 About Me
-🔭 I’m currently working on Backend Systems, GenAI apps, and Agentic AI workflows  
-🤝 I’m looking to collaborate on GenAI, LLM, Distributed Systems, and Full-Stack projects  
-🧠 I’m looking for help with Agentic AI, RAG pipelines, and scalable AI architectures  
-🌱 I’m currently learning LLM orchestration, LangChain, Vector DBs, and AI Agents  
-💬 Ask me about Backend, System Design, Async Processing, Queues, Redis, Celery, BullMQ  
-⚡ Fun fact: I like building real-world systems that combine scalable backends with AI-powered features  
-
+<h1 align="center">Hi 👋, I'm Kshitij Tripathi</h1>
+<h3 align="center">Full Stack Developer | IIIT Graduate | MERN & Django Developer</h3>
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-tripathi-b20a9625a/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kttripathi317@gmail.com)
+## 🚀 About Me
+
+- 🎓 IIIT Graduate passionate about software engineering
+- 💻 Full Stack Developer (MERN + Django)
+- 🔥 Building scalable real-world applications
+- 🌱 Exploring System Design, DevOps & Cloud
+- ⚡ Interested in AI-integrated web applications
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/kshitij-tripathi-b20a9625a/)">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="[YOUR_GITHUB](https://github.com/kshitij189)">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Backend
-Node.js • Django • Spring Boot • Go • Express • REST • GraphQL  
-
-### Databases
-MongoDB • PostgreSQL • MySQL • Redis • Neo4j  
-
-### Async / Distributed / Infra
-Redis • Celery • BullMQ • RabbitMQ • Kafka • Docker • Nginx  
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 
 ### Frontend
-React • Next.js • Tailwind • Redux • Vite  
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)
 
-### GenAI / AI
-LangChain • Gemini API • RAG • Vector DB • PyTorch • TensorFlow • Scikit-learn  
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
 
-### Tools
-Git • GitHub • Postman • Linux • AWS • Vercel • Render  
+### Database
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
+![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitij189&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=kshitij189&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Streak](https://streak-stats.demolab.com?user=kshitij189&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kshitij189&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij189&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij189&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=kshitij189&label=Profile%20views&color=0e75b6&style=flat)
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/kshitij189/kshitij189/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🚀 Featured Projects
+
+## 💸 SplitSync
+AI-powered expense splitting platform with smart settlement algorithm.
+
+## 🧾 NexusInvoice
+Full-stack invoicing platform with JWT + OAuth authentication.
+
+## 🚗 Sarathi
+Real-time lane and pothole detection system using YOLOv8 & OpenCV.
+
+---
+
+# ✨ Quote
+
+> "Code. Build. Improve. Repeat."
+
+---
