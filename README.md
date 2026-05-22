@@ -70,7 +70,7 @@
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/kshitij189/kshitij189/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kshitij189/kshitij189/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
