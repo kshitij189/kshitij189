@@ -16,11 +16,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/kshitij-tripathi-b20a9625a/)">
+<a href="https://www.linkedin.com/in/kshitij-tripathi-b20a9625a/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="[YOUR_GITHUB](https://github.com/kshitij189)">
+<a href="https://github.com/kshitij189">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
