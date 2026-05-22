@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 🎓 IIIT Graduate passionate about software engineering
-- 💻 Full Stack Developer (MERN + Django + Sprngboot + Golang)
+- 💻 Full Stack Developer and GenAI Agentic Engineer(MERN + Django + Sprngboot + Golang + Gen AI + Agentic AI)
 - 🔥 Building scalable real-world applications
 - 🌱 Exploring System Design, DevOps & Cloud
 - ⚡ Interested in AI-integrated web applications
