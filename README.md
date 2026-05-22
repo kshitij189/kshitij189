@@ -76,19 +76,22 @@
 
 # 🚀 Featured Projects
 
-## 💸 SplitSync
-AI-powered expense splitting platform with smart settlement algorithm.
+## 💸 SplitEase
+SplitEase is a responsive, full-stack expense-sharing web application that makes splitting bills and settling group debts effortless. Built with a Django REST Framework backend and a ReactJS frontend, it supports exact, percentage, and fractional multi-payer splits powered by a Smart Settlement algorithm that applies greedy transaction minimization to reduce the number of payments needed. The platform integrates Google OAuth 2.0 and JWT for secure authentication, the Google Gemini API for an intelligent, context-aware chatbot that analyzes real-time group balances, and a tokenized invite system with a comprehensive activity audit log for full transparency. Deployed on Render with PostgreSQL as the database.
 
-## 🧾 NexusInvoice
-Full-stack invoicing platform with JWT + OAuth authentication.
+## 🧾 BillCraft
+BillCraft is a full-stack invoicing platform built for freelancers and small businesses to streamline billing workflows. It enables users to create, manage, and track invoices with support for partial payments, automated PDF generation, and email delivery. Features include secure JWT & Google OAuth 2.0 authentication, client management, a real-time analytics dashboard with visual metrics for revenue tracking, and multi-currency support. Built with ReactJS, Django REST Framework, and MongoDB.
 
-## 🚗 Sarathi
-Real-time lane and pothole detection system using YOLOv8 & OpenCV.
+## 📄 DocProcessor
+A full-stack intelligent document processing platform with a production-grade RAG pipeline. Upload documents (PDF, DOCX, images) with async background processing via Celery workers, real-time progress streaming through Redis Pub/Sub and SSE, and hybrid OCR using PyMuPDF and Tesseract. Features a 10-stage RAG chat system with LLM-powered query rewriting, sentence-aware chunking, batched embeddings (all-MiniLM-L6-v2), hybrid retrieval combining ChromaDB semantic search with BM25 keyword matching, Reciprocal Rank Fusion, cross-encoder re-ranking, token-aware context building, and streaming Gemini responses with source citations. Includes multi-layer Redis caching, per-document vector collections, full CRUD with review/finalize workflows, and one-command Docker Compose deployment. Built with React 18, TypeScript, FastAPI, PostgreSQL, Redis, Celery, and ChromaDB.
+
+## 🧠 CortexMCP
+CortexMCP is a production-grade, autonomous research engine that executes web searches, scrapes and semantically deduplicates content via a transient ChromaDB vector store, and synthesizes comprehensive Markdown reports using a dual-provider Gemini/Groq LLM orchestrator. It features real-time UNIX-style observable log streaming (Redis Pub/Sub → SSE), multi-agent persona profiles (Academic, Financial, Technical), temporal delta tracking with AI-powered split-screen version comparison, interactive query source nodes mapping scraped citations and references with relevance scoring, and premium PDF generation — all powered by FastAPI, Celery, PostgreSQL, Redis, and a glassmorphic React dashboard.
 
 ---
 
 # ✨ Quote
 
-> "Code. Build. Improve. Repeat."
+> "Building intelligent and scalable solutions for real-world problems."
 
 ---
