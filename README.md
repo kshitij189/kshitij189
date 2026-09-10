@@ -25,7 +25,7 @@
 </a>
 
 <a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
+<img src="[https://img.shields.io/badge/Portfolio-orange?style=for-the-badge](https://kshitij189.github.io/portflio/)"/>
 </a>
 </p>
 
