@@ -24,8 +24,8 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[YOUR_PORTFOLIO](https://kshitij189.github.io/portflio/)">
-<img src="[https://img.shields.io/badge/Portfolio-orange?style=for-the-badge](https://kshitij189.github.io/portflio/)"/>
+<a href="https://kshitij189.github.io/portflio/">
+<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=portfoilio"/>
 </a>
 </p>
 
